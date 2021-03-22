@@ -27,4 +27,4 @@ Simple version: [luci-app-cpu-status-mini](https://github.com/gSpotx2f/luci-app-
 
 **Screenshots:**
 
-![](https://github.com/gSpotx2f/luci-app-cpu-status/blob/master/screenshots/01.jpg)
+![](https://github.com/kevindoni/cpu-status/blob/main/screenshots/cpu.png)
